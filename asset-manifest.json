@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_hookpro/static/css/main.060bd76c.chunk.css",
+    "main.js": "/react_hookpro/static/js/main.49c412b1.chunk.js",
+    "main.js.map": "/react_hookpro/static/js/main.49c412b1.chunk.js.map",
+    "runtime-main.js": "/react_hookpro/static/js/runtime-main.bee6bf80.js",
+    "runtime-main.js.map": "/react_hookpro/static/js/runtime-main.bee6bf80.js.map",
+    "static/js/2.7241d507.chunk.js": "/react_hookpro/static/js/2.7241d507.chunk.js",
+    "static/js/2.7241d507.chunk.js.map": "/react_hookpro/static/js/2.7241d507.chunk.js.map",
+    "index.html": "/react_hookpro/index.html",
+    "static/css/main.060bd76c.chunk.css.map": "/react_hookpro/static/css/main.060bd76c.chunk.css.map",
+    "static/js/2.7241d507.chunk.js.LICENSE.txt": "/react_hookpro/static/js/2.7241d507.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bee6bf80.js",
+    "static/js/2.7241d507.chunk.js",
+    "static/css/main.060bd76c.chunk.css",
+    "static/js/main.49c412b1.chunk.js"
+  ]
+}
